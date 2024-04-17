@@ -22,7 +22,7 @@ Cursando Engenharia de Software na Universidade Cruzeiro do Sul
 </div>
 
   ##
- https://www.linkedin.com/in/miguel-aguiar-a63719206/
+  
 <div>
 	<a href="mailto:contatomiguelaguiardossantos@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href="https://www.instagram.com/miguelaguiiar/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
