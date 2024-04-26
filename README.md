@@ -8,9 +8,10 @@ Cursando Engenharia de Software na Universidade Cruzeiro do Sul
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Aguiar&layout=compact"/>	
 </div> 
 
-# Principais tecnologias e ferramentas:
+
   
 <div><br>
+	# Principais tecnologias e ferramentas:
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
