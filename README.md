@@ -16,6 +16,7 @@ Cursando Engenharia de Software na Universidade Cruzeiro do Sul
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
@@ -24,7 +25,7 @@ Cursando Engenharia de Software na Universidade Cruzeiro do Sul
 </div>
 
   ##
-  
+  Contato
 <div>
 	<a href="mailto:contatomiguelaguiardossantos@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href="https://www.instagram.com/miguelaguiiar/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
