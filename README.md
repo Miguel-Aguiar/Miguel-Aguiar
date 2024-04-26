@@ -7,6 +7,8 @@ Cursando Engenharia de Software na Universidade Cruzeiro do Sul
 	<img src="https://github-readme-stats.vercel.app/api?username=Miguel-Aguiar&show_icons=true&bg_color=110,000000,E0FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=E0FFFF&title_color=F0FFFF&border_radius=15&hide=issues,contribs"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Aguiar&layout=compact"/>	
 </div> 
+
+# Principais tecnologias e ferramentas:
   
 <div><br>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
