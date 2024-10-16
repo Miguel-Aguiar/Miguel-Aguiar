@@ -3,8 +3,7 @@
 Cursando Engenharia de Software na Universidade Cruzeiro do Sul
 
 <div align="center">
-	<a href="https://github.com/Miguel-Aguiar">	
-	<img src="https://github-readme-stats.vercel.app/api?username=Miguel-Aguiar&show_icons=true&bg_color=110,000000,E0FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=E0FFFF&title_color=F0FFFF&border_radius=15&hide=issues,contribs"/>
+	<a href="https://github.com/Miguel-Aguiar">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Aguiar&layout=compact"/>	
 </div><br>
 
